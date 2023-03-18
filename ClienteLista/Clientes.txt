@@ -1,0 +1,11 @@
+Marco Costa; 123456789; Guimaraes; 4200.0
+Andre Silva; 871920827; Viseu; 320.0
+Gabriel Ribeiro; 981702672; Coimbra; 546.0
+Samuel Costa; 654839728; Covilha; 1982.0
+David Mendes; 837465172; Chaves; 7628.0
+Ana Isabel; 763892837; Porto; 332.0
+Andre Marques; 637489102; Amarante; 82.0
+Rui Ferreira; 5356278192; Matosinhos; 530.0
+
+
+
